@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b/4QFa7/aPgQ+eWCPEhApl75jaS2lIqxBnmPiEOo2Z8ZkdHNufVTa0hpOnlwnDjjXWgUa4wmzpiyX1eGPrj19w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiago.cordeiro\\Desktop\\Alura\\Orientacao_A_Objetos\\Eranca_Abstracao\\Eranca_Abstracao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiago.cordeiro\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\thiago.cordeiro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\thiago.cordeiro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

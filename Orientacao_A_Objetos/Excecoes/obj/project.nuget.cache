@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKtC2MGtr9mvauStR59A2A2MPWmRUwuTowIykIGX/Sb6cY5a19C8plaAJzuCSpLGovAkxfTrW378jhrSLx+IvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiago.cordeiro\\Desktop\\Alura\\Orientacao_A_Objetos\\Excecoes\\Excecoes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiago.cordeiro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y2pJx3F+Rf6p1JJyY+2KJhNm0ZS5BRzbC26yMYRLRvPUg8z5IAtZ+h/bt+4RjmFs42EFSWi+/YsHiPLOwvJLPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiago.cordeiro\\Desktop\\Alura\\Orientacao_A_Objetos\\Orientacao_A_Objetos\\Orientacao_A_Objetos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiago.cordeiro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

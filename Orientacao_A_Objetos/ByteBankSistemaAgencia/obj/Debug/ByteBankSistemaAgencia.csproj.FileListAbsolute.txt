@@ -1,0 +1,7 @@
+C:\Users\thiago.cordeiro\Desktop\Alura\Orientacao_A_Objetos\ByteBankSistemaAgencia\bin\Debug\ByteBankSistemaAgencia.exe.config
+C:\Users\thiago.cordeiro\Desktop\Alura\Orientacao_A_Objetos\ByteBankSistemaAgencia\bin\Debug\ByteBankSistemaAgencia.exe
+C:\Users\thiago.cordeiro\Desktop\Alura\Orientacao_A_Objetos\ByteBankSistemaAgencia\bin\Debug\ByteBankSistemaAgencia.pdb
+C:\Users\thiago.cordeiro\Desktop\Alura\Orientacao_A_Objetos\ByteBankSistemaAgencia\obj\Debug\ByteBankSistemaAgencia.csproj.AssemblyReference.cache
+C:\Users\thiago.cordeiro\Desktop\Alura\Orientacao_A_Objetos\ByteBankSistemaAgencia\obj\Debug\ByteBankSistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\thiago.cordeiro\Desktop\Alura\Orientacao_A_Objetos\ByteBankSistemaAgencia\obj\Debug\ByteBankSistemaAgencia.exe
+C:\Users\thiago.cordeiro\Desktop\Alura\Orientacao_A_Objetos\ByteBankSistemaAgencia\obj\Debug\ByteBankSistemaAgencia.pdb
