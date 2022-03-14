@@ -5,6 +5,9 @@ using System;
 
 namespace Excecoes
 {
+    /// <summary>
+    /// Define uma Conta Corrente do banco ByteBank
+    /// </summary>
     public class ContaCorrente
     {
         public static double TaxaOperacao { get; private set; }
@@ -20,7 +23,12 @@ namespace Excecoes
 
         public int Numero { get; }
 
-        private double _saldo;
+        public double Saldo { get; private set; }
+        /// <summary>
+        /// Cria a instância de ContaCorrente com os argumentos utilizados.
+        /// </summary>
+        /// <param name="agencia"> Reresenta o valor da propriedade <see cref="_agencia"/> e deve possuir um valor maior que 0</param>
+        /// <param name="numero"> Reresenta o valor da propriedade <see cref="Numero"/> e deve possuir um valor maior que 0</param>
 
         public ContaCorrente(int agencia, int numero)
         {
@@ -36,7 +44,12 @@ namespace Excecoes
             TotalDeContasCriadas++;
         }
 
-
+        /// <summary>
+        /// Realiza o saque e atualiza o valor da propriedade <see cref="Saldo"/>
+        /// </summary>
+        /// <exception cref="ArgumentException"> Exceção lançada quando um valor negativo é utilizado em <paramref name="valor"/>.</exception>
+        /// <exception cref="SaldoInsuficienteException"> Exceçaõ lançada quando a propriedade <see cref="Saldo"/> é inferior ao parâmetro <paramref name="valor"/></exception>
+        /// <param name="valor"> Representa o valor do saque, deve ser maior que 0 e menor que..</param>
         public void Sacar(double valor)
         {
             if (valor < 0)
@@ -44,18 +57,18 @@ namespace Excecoes
                 TentativasDeSaquesInsuficientes++;
                 throw new ArgumentException("Não é possível realizar saques de valor negativo", nameof(valor));
             }
-            if (_saldo < valor)
+            if (Saldo < valor)
             {
                 //throw new SaldoInsuficienteException($"Saldo insuficiente pra o valor de {valor}");
-                throw new SaldoInsuficienteException($"Tentativa de saque: Valor = {valor} Saldo = {_saldo}");
+                throw new SaldoInsuficienteException($"Tentativa de saque: Valor = {valor} Saldo = {Saldo}");
             }
 
-            _saldo -= valor;
+            Saldo -= valor;
         }
 
         public void Depositar(double valor)
         {
-            _saldo += valor;
+            Saldo += valor;
         }
 
 

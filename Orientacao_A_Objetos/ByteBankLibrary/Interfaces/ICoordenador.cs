@@ -8,7 +8,8 @@ namespace Eranca_Abstracao.Interfaces
 {
     public interface ICoordenador
     {
-        string GetFerias();
+        string Ferias { get; }
+
         void AumentarSalario();
         double GetBonificacao();
         void Inserir(int tipo);

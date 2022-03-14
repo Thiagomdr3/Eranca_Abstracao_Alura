@@ -12,10 +12,7 @@ namespace Eranca_Abstracao.Funcionarios
     {
         public Coordenador() : base("Coordenador", 4000) { }
 
-        public override string GetFerias()
-        {
-            return base.GetFerias();
-        }
+        public override string Ferias => base.Ferias;
 
         public override void AumentarSalario()
         {

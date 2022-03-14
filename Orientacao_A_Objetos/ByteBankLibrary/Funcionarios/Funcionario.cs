@@ -23,11 +23,14 @@ namespace Eranca_Abstracao.Funcionarios
             _TotalFuncionarios++;
         }
 
-        public virtual string GetFerias()
+        public virtual string Ferias
         {
-            DateTime vencimentoFerias = dataContratacao;
-            vencimentoFerias.Subtract(DateTime.Now);
-            return $"Faltam {vencimentoFerias.Month} meses para o vencimento das ferias do {_tipo} {nome}";
+            get
+            {
+                DateTime vencimentoFerias = dataContratacao;
+                vencimentoFerias.Subtract(DateTime.Now);
+                return $"Faltam {vencimentoFerias.Month} meses para o vencimento das ferias do {_tipo} {nome}";
+            }
         }
 
         public virtual double GetBonificacao()

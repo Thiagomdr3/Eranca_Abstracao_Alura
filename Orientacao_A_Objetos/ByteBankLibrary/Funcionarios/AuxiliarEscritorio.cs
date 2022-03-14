@@ -10,10 +10,7 @@ namespace Eranca_Abstracao.Funcionarios
     {
         public AuxiliarEscritorio() : base("Auxiliar de escritório", 2000) { }
 
-        public override string GetFerias()
-        {
-            return base.GetFerias();
-        }
+        public override string Ferias => base.Ferias;
 
         public override void AumentarSalario()
         {

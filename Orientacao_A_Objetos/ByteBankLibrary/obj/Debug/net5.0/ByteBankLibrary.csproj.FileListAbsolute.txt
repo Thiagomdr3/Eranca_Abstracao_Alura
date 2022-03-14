@@ -1,0 +1,25 @@
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\ByteBankLibrary\bin\Debug\net5.0\ByteBankLibrary.deps.json
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\ByteBankLibrary\bin\Debug\net5.0\ByteBankLibrary.dll
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\ByteBankLibrary\bin\Debug\net5.0\ref\ByteBankLibrary.dll
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\ByteBankLibrary\bin\Debug\net5.0\ByteBankLibrary.pdb
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ByteBankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ByteBankLibrary.AssemblyInfoInputs.cache
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ByteBankLibrary.AssemblyInfo.cs
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ByteBankLibrary.csproj.CoreCompileInputs.cache
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ByteBankLibrary.dll
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ref\ByteBankLibrary.dll
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ByteBankLibrary.pdb
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ByteBankLibrary.csproj.AssemblyReference.cache
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\ByteBankLibrary\bin\Debug\net5.0\ByteBankLibrary.deps.json
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\ByteBankLibrary\bin\Debug\net5.0\ByteBankLibrary.dll
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\ByteBankLibrary\bin\Debug\net5.0\ref\ByteBankLibrary.dll
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\ByteBankLibrary\bin\Debug\net5.0\ByteBankLibrary.pdb
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ByteBankLibrary.csproj.AssemblyReference.cache
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ByteBankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ByteBankLibrary.AssemblyInfoInputs.cache
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ByteBankLibrary.AssemblyInfo.cs
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ByteBankLibrary.csproj.CoreCompileInputs.cache
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ByteBankLibrary.dll
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ref\ByteBankLibrary.dll
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\ByteBankLibrary\obj\Debug\net5.0\ByteBankLibrary.pdb
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\ByteBankLibrary\bin\Debug\net5.0\ByteBankLibrary.xml

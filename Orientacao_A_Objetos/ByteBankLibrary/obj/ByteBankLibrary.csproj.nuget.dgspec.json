@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thiago.cordeiro\\Desktop\\Alura\\Orientacao_A_Objetos\\ByteBankLibrary\\ByteBankLibrary.csproj": {}
+    "F:\\Thiago\\Programação\\Teoricos\\Alura C# POO\\Projetos Gerais\\Orientacao_A_Objetos\\ByteBankLibrary\\ByteBankLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thiago.cordeiro\\Desktop\\Alura\\Orientacao_A_Objetos\\ByteBankLibrary\\ByteBankLibrary.csproj": {
+    "F:\\Thiago\\Programação\\Teoricos\\Alura C# POO\\Projetos Gerais\\Orientacao_A_Objetos\\ByteBankLibrary\\ByteBankLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thiago.cordeiro\\Desktop\\Alura\\Orientacao_A_Objetos\\ByteBankLibrary\\ByteBankLibrary.csproj",
+        "projectUniqueName": "F:\\Thiago\\Programação\\Teoricos\\Alura C# POO\\Projetos Gerais\\Orientacao_A_Objetos\\ByteBankLibrary\\ByteBankLibrary.csproj",
         "projectName": "ByteBankLibrary",
-        "projectPath": "C:\\Users\\thiago.cordeiro\\Desktop\\Alura\\Orientacao_A_Objetos\\ByteBankLibrary\\ByteBankLibrary.csproj",
-        "packagesPath": "C:\\Users\\thiago.cordeiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thiago.cordeiro\\Desktop\\Alura\\Orientacao_A_Objetos\\ByteBankLibrary\\obj\\",
+        "projectPath": "F:\\Thiago\\Programação\\Teoricos\\Alura C# POO\\Projetos Gerais\\Orientacao_A_Objetos\\ByteBankLibrary\\ByteBankLibrary.csproj",
+        "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
+        "outputPath": "F:\\Thiago\\Programação\\Teoricos\\Alura C# POO\\Projetos Gerais\\Orientacao_A_Objetos\\ByteBankLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\thiago.cordeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

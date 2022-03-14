@@ -14,3 +14,34 @@ C:\Users\thiago.cordeiro\Desktop\Alura\Orientacao_A_Objetos\Excecoes\obj\Debug\n
 C:\Users\thiago.cordeiro\Desktop\Alura\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\ref\Excecoes.dll
 C:\Users\thiago.cordeiro\Desktop\Alura\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.pdb
 C:\Users\thiago.cordeiro\Desktop\Alura\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.genruntimeconfig.cache
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\bin\Debug\net5.0\Excecoes.exe
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\bin\Debug\net5.0\Excecoes.deps.json
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\bin\Debug\net5.0\Excecoes.runtimeconfig.json
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\bin\Debug\net5.0\Excecoes.runtimeconfig.dev.json
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\bin\Debug\net5.0\Excecoes.dll
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\bin\Debug\net5.0\ref\Excecoes.dll
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\bin\Debug\net5.0\Excecoes.pdb
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.AssemblyInfoInputs.cache
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.AssemblyInfo.cs
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.csproj.CoreCompileInputs.cache
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.dll
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\ref\Excecoes.dll
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.pdb
+F:\Thiago\Programação\Teoricos\alura\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.genruntimeconfig.cache
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\bin\Debug\net5.0\Excecoes.exe
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\bin\Debug\net5.0\Excecoes.deps.json
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\bin\Debug\net5.0\Excecoes.runtimeconfig.json
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\bin\Debug\net5.0\Excecoes.runtimeconfig.dev.json
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\bin\Debug\net5.0\Excecoes.dll
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\bin\Debug\net5.0\ref\Excecoes.dll
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\bin\Debug\net5.0\Excecoes.pdb
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.csproj.AssemblyReference.cache
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.AssemblyInfoInputs.cache
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.AssemblyInfo.cs
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.csproj.CoreCompileInputs.cache
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.dll
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\ref\Excecoes.dll
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.pdb
+F:\Thiago\Programação\Teoricos\Alura C# POO\Projetos Gerais\Orientacao_A_Objetos\Excecoes\obj\Debug\net5.0\Excecoes.genruntimeconfig.cache

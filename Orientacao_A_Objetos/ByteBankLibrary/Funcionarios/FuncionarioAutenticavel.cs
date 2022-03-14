@@ -1,4 +1,5 @@
-﻿using Eranca_Abstracao.Sistema;
+﻿using ByteBankLibrary.Sistema;
+using Eranca_Abstracao.Sistema;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,13 +10,14 @@ namespace Eranca_Abstracao.Funcionarios
 {
     public abstract class FuncionarioAutenticavel:Funcionario,IAutenticavel
     {
+        AutenticacaoHellper autenticacaoHellper = new();
         public string Senha { get; set; }
 
         public FuncionarioAutenticavel(string tipo, double salario):base(tipo, salario){ }
 
         public bool Autenticar(string senha)
         {
-            return this.Senha == senha;
+            return autenticacaoHellper.CompararSenhas(this.Senha, senha);
         }
 
         public void Inserir(int tipo)

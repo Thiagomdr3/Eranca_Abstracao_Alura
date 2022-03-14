@@ -8,23 +8,14 @@ using System.Threading.Tasks;
 
 namespace Eranca_Abstracao.Funcionarios
 {
-    public class Diretor: FuncionarioAutenticavel,IDiretor
+    public class Diretor : FuncionarioAutenticavel, IDiretor
     {
         public Diretor() : base("Diretor", 7000) { }
 
-        public override string GetFerias()
-        {
-            return base.GetFerias();
-        }
+        public override string Ferias => base.Ferias;
 
-        public override void AumentarSalario()
-        {
-            _salario *= 1.4;
-        }
+        public override void AumentarSalario() => _salario *= 1.4;
 
-        public override double GetBonificacao()
-        {
-            return _salario *= 1.5;
-        }
+        public override double GetBonificacao() => _salario *= 1.5;
     }
 }

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ByteBankLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:Excecoes.ContaCorrente">
+            <summary>
+            Define uma Conta Corrente do banco ByteBank
+            </summary>
+        </member>
+        <member name="M:Excecoes.ContaCorrente.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Cria a instância de ContaCorrente com os argumentos utilizados.
+            </summary>
+            <param name="agencia"> Reresenta o valor da propriedade <see cref="F:Excecoes.ContaCorrente._agencia"/> e deve possuir um valor maior que 0</param>
+            <param name="numero"> Reresenta o valor da propriedade <see cref="P:Excecoes.ContaCorrente.Numero"/> e deve possuir um valor maior que 0</param>
+        </member>
+        <member name="M:Excecoes.ContaCorrente.Sacar(System.Double)">
+            <summary>
+            Realiza o saque e atualiza o valor da propriedade <see cref="P:Excecoes.ContaCorrente.Saldo"/>
+            </summary>
+            <exception cref="T:System.ArgumentException"> Exceção lançada quando um valor negativo é utilizado em <paramref name="valor"/>.</exception>
+            <exception cref="T:Excecoes.Erros.SaldoInsuficienteException"> Exceçaõ lançada quando a propriedade <see cref="P:Excecoes.ContaCorrente.Saldo"/> é inferior ao parâmetro <paramref name="valor"/></exception>
+            <param name="valor"> Representa o valor do saque, deve ser maior que 0 e menor que..</param>
+        </member>
+    </members>
+</doc>

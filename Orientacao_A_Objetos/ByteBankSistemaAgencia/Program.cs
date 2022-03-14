@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Eranca_Abstracao.Funcionarios;
+using Excecoes;
+using System;
 
 namespace ByteBankSistemaAgencia
 {
@@ -10,6 +8,13 @@ namespace ByteBankSistemaAgencia
     {
         static void Main(string[] args)
         {
+            ContaCorrente conta = new(347, 555);
+
+            conta.Depositar(150);
+            Diretor dir = new();
+            dir.Autenticar("");
+
+            
         }
     }
 }

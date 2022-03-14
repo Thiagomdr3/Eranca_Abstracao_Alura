@@ -5,11 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Eranca_Abstracao.Interfaces
+namespace Eranca_Abstracao.Funcionarios
 {
     public interface IDiretor
     {
-        string GetFerias();
+        string Ferias { get; }
 
         void AumentarSalario();
 
